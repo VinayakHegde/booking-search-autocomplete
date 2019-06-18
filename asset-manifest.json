@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/booking-search-autocomplete/static/css/main.d46f74f8.chunk.css",
+    "main.js": "/booking-search-autocomplete/static/js/main.d71672ad.chunk.js",
+    "main.js.map": "/booking-search-autocomplete/static/js/main.d71672ad.chunk.js.map",
+    "runtime~main.js": "/booking-search-autocomplete/static/js/runtime~main.d8e28815.js",
+    "runtime~main.js.map": "/booking-search-autocomplete/static/js/runtime~main.d8e28815.js.map",
+    "static/js/2.fcad81e9.chunk.js": "/booking-search-autocomplete/static/js/2.fcad81e9.chunk.js",
+    "static/js/2.fcad81e9.chunk.js.map": "/booking-search-autocomplete/static/js/2.fcad81e9.chunk.js.map",
+    "index.html": "/booking-search-autocomplete/index.html",
+    "precache-manifest.75d53272b6801819beccc313a411f0d8.js": "/booking-search-autocomplete/precache-manifest.75d53272b6801819beccc313a411f0d8.js",
+    "service-worker.js": "/booking-search-autocomplete/service-worker.js",
+    "static/css/main.d46f74f8.chunk.css.map": "/booking-search-autocomplete/static/css/main.d46f74f8.chunk.css.map"
+  }
+}
