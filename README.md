@@ -1,4 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo](https://vinayakhegde.github.io/booking-search-autocomplete/)
+
+Clone/download the project and run 
+
+```
+npm i
+```
 
 ## Available Scripts
 
