@@ -1,0 +1,27 @@
+.loader:empty {
+  position: absolute;
+  width: 0.5em;
+  height: 0.5em;
+  border: 0.5em solid rgba(0, 0, 0, 0.2);
+  border-left: 0.5em solid #000000;
+  border-radius: 50%;
+  animation: spin 1.1s infinite linear;
+  z-index: 999;
+  margin-top: -36px;
+  left: calc(100% - 2em);
+}
+@media (min-width: 48em){
+  .loader:empty {
+    left: unset;
+    margin-left: 485px;
+  }
+}
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
